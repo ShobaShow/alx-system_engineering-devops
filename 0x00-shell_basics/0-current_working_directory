@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls
+=======
+pwd
+>>>>>>> 35d60bf3dfd40e6bee7d0d9f4c2ab347313672bc
